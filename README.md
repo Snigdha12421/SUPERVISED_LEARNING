@@ -1,4 +1,3 @@
-# SUPERVISED_LEARNING
 # SUPERVISED LEARNING 
 
 This repository contains **implementations of supervised learning regression algorithms** in Python.  
