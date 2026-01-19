@@ -1,4 +1,4 @@
-# SUPERVISED LEARNING 
+# ML CLASS WORK
 
 This repository contains **implementations of supervised learning regression algorithms** in Python.  
 All algorithms are implemented using their **original mathematical formulas**, without using machine learning libraries such as `scikit-learn`.
